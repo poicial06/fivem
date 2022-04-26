@@ -29,7 +29,6 @@ local blackjackTables = {
 
 local blackjackGameInProgress = {}
 local blackjackGameData = {}
-
 function getPlayerChips(source)
     local source = source
 	local user_id = vRP.getUserId(source)
