@@ -1,0 +1,44 @@
+startar todos os scripts
+
+ensure casino_base
+ensure casino_blackjack
+ensure casino_insidetrack
+ensure casino_npc
+ensure casino_poker
+ensure casino_roleta
+ensure casino_slots
+ensure casino_sorte
+ensure InteractSound
+ensure nav_bar
+ensure t-notify
+
+TUTORIAL
+
+--ADICIONAR DOIS ITENS NA BASE
+
+casino_token
+casino_ticket
+dinheirosujo
+
+--MUDAR VEICULO QUE APRESENTA NO SPAWN
+
+casino_base(cliente.lua)(linha 4)
+
+--MUDAR VEICULO QUE A PESSOA VAI GANHAR NA ROLETA
+
+casino_sorte(config.json)
+
+-- MUDAR VALOR DOS ITENS E QUANTIDADE 
+
+nav_bar(server.lua)
+
+
+
+
+https://discord.gg/84zdTHXvxK
+https://discord.gg/84zdTHXvxK
+https://discord.gg/84zdTHXvxK
+https://discord.gg/84zdTHXvxK
+https://discord.gg/84zdTHXvxK
+https://discord.gg/84zdTHXvxK
+https://discord.gg/84zdTHXvxK

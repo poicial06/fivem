@@ -1,0 +1,34 @@
+
+.gn-top-right,
+.gn-bottom-right {
+}
+
+.gn-bottom-right {
+}
+
+.gn-top-left,
+.gn-bottom-left {
+}
+
+.gn-bottom-left {
+}
+
+.gn-top-center,
+.gn-bottom-center {
+}
+
+.gn-top-center {
+}
+
+.gn-bottom-center {
+}
+
+
+/* All custom styles have to use the prefix "gn-", place them below */
+/* NOTE: Once added, you always need to set the "custom" property to true otherwise this style will not work properly. */
+
+.gn-example {
+    background-color: pink;
+    color: black;
+    text-shadow: 0 1px 1px white;
+}
