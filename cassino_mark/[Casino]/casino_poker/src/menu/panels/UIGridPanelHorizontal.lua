@@ -7,7 +7,9 @@ local GridPanelHorizontal = {
         Right = { X = 373.25, Y = 130, Scale = 0.35 },
     },
 }
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---GridPanelVertical
 ---@param X number
 ---@param TopText string

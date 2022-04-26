@@ -7,7 +7,9 @@ local Percentage = {
         Right = { X = 398, Y = 15, Scale = 0.35 },
     },
 }
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---PercentagePanel
 ---@param Percent number
 ---@param HeaderText string

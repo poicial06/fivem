@@ -1,7 +1,9 @@
 local screenTarget, bigScreenScaleform = -1, -1
 local bigScreenCoords = vector3(1092.75, 264.56, -51.24)
 local bigScreenRender, isBigScreenLoaded = false, false
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 local function registerTarget(name, objectModel)
     if not IsNamedRendertargetRegistered(name) then
         RegisterNamedRendertarget(name, false)

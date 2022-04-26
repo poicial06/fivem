@@ -1,4 +1,6 @@
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---@param str string
 ---@param font number
 ---@param scale number

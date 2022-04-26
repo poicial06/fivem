@@ -1,3 +1,6 @@
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 RageUI.BadgeStyle = {
     None = 1,
     BronzeMedal = 2,

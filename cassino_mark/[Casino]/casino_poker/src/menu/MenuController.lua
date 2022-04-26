@@ -11,7 +11,9 @@ function RageUI.IsMouseInBounds(X, Y, Width, Height)
     Width, Height = Width / 1920, Height / 1080
     return (MX >= X and MX <= X + Width) and (MY > Y and MY < Y + Height)
 end
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---GetSafeZoneBounds
 ---@return table
 ---@public

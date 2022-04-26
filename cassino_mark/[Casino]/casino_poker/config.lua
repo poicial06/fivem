@@ -1,6 +1,8 @@
 Config = {}
 Config.TranslationSelected = 'en'
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 -- YOUR MAIN SETUPS
 Config.Debug = false -- enable debug messages in sv/cl console
 Config.TimeLeftAfter = 10 -- time remaining after one player betted (dealer actions start timeout)

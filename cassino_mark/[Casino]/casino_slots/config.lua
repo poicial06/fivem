@@ -2,7 +2,9 @@ Config = {}
 Config.TranslationSelected = 'en'
 Config.PrintClient = false -- Print on client's console the spins in case of object bug
 Config.Offset = true -- Add 70% propability to stop the spins in wrong position
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 Config.HideUI = true
 Config.HideUIEvent = ''
 Config.ShowUIEvent = ''

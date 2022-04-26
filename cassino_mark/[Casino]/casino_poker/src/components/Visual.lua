@@ -1,4 +1,6 @@
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---- event from server to show notification
 RegisterNetEvent("RageUI:Popup")
 AddEventHandler("RageUI:Popup", function(array)

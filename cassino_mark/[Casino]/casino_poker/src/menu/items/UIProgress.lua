@@ -7,7 +7,9 @@ local SettingsButton = {
     RightText = { X = 420, Y = 4, Scale = 0.35 },
     SelectedSprite = { Dictionary = "commonmenu", Texture = "gradient_nav", Y = 0, Width = 431, Height = 38 },
 }
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 local SettingsProgress = {
     Background = { X = 8, Y = 33, Width = 415, Height = 20 },
     Bar = { X = 11.75, Y = 36.75, Width = 407.5, Height = 12.5 },

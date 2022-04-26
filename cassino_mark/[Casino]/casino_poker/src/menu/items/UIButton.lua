@@ -1,3 +1,6 @@
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---@type table
 local SettingsButton = {
     Rectangle = { Y = 0, Width = 431, Height = 38 },

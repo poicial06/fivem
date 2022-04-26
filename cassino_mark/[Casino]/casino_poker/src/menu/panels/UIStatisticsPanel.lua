@@ -14,7 +14,9 @@ local Statistics = {
     }
 }
 
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---StatisticPanel
 ---@param Percent number
 ---@param Text string

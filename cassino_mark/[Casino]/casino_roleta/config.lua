@@ -1,6 +1,8 @@
 Config = {}
 Config.TranslationSelected = 'en'
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 Config.Debug = false -- enable debug messages in sv/cl console
 Config.TestTicker = nil -- need for testing the numbers, you can change the fix roulette tick by /rultick [1-38]
 

@@ -12,7 +12,9 @@ print("^6RageUI, and a project specially created to replace the NativeUILua-Relo
 print("")
 print("^6Thank you for your support of this project.^0")
 print("")
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---round
 ---@param num number
 ---@param numDecimalPlaces number

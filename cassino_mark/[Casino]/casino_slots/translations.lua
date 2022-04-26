@@ -1,5 +1,7 @@
 Translations = {}
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 function _(str, ...) -- Translate string
     if Translations[Config.TranslationSelected] ~= nil then
         if Translations[Config.TranslationSelected][str] ~= nil then

@@ -1,3 +1,7 @@
+
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 function Utils:ShowBetScreen(horse)
     self:UpdateBetValues(horse, self.CurrentBet, self.PlayerBalance, self.CurrentGain)
 

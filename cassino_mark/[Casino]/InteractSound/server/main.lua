@@ -1,4 +1,6 @@
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 RegisterServerEvent('InteractSound_SV:PlayOnOne')
 AddEventHandler('InteractSound_SV:PlayOnOne', function(clientNetId, soundFile, soundVolume)
     TriggerClientEvent('InteractSound_CL:PlayOnOne', clientNetId, soundFile, soundVolume)

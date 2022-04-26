@@ -1,3 +1,6 @@
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 if not IsDuplicityVersion() then -- CLIENT
     Utils = {
         Draw3DText = function(coords, text, size, font)

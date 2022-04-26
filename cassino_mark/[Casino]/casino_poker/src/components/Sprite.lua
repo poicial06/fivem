@@ -1,4 +1,6 @@
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---@param TextureDictionary string
 ---@param TextureName string
 ---@param X number

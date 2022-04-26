@@ -1,3 +1,6 @@
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 local function IsPositionAvailable(position)
     for i = 1, #Utils.HorsesPositions do
         if (Utils.HorsesPositions[i] == position) then

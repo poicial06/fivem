@@ -1,5 +1,7 @@
 
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 ---@param loadingText string
 ---@param spinnerType number
 ---@return void

@@ -1,5 +1,7 @@
 -- Configure the coordinates for the bartenders.
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 local bouncers = {
  -- {type=4, hash=0x9fd4292d, x = 1092.8, y = 207.9, z = -50.0, a = 114.31},
  -- {type=4, hash=0x9fd4292d, x = 1088.51, y = 212.03, z = -50.0, a = 183.23},

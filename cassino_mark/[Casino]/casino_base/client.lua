@@ -1,3 +1,6 @@
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 local inCasino = false
 local spinningObject = nil
 local spinningCar = nil

@@ -1,14 +1,6 @@
--- int param :
--- 0 = main
--- 1 = choose a horse
--- 2 = choose a horse (2)
--- 3 = select a bet
--- 4 = select a bet (2)
--- 5 = race screen (frozen)
--- 6 = photo finish (frozen)
--- 7 = results
--- 8 = same as main but a bit different
--- 9 = rules
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 function Utils:ShowMainScreen()
     BeginScaleformMovieMethod(self.Scaleform, 'SHOW_SCREEN')
     ScaleformMovieMethodAddParamInt(0)

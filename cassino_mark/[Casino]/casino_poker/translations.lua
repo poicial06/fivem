@@ -1,5 +1,7 @@
 Translations = {}
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 function _(str, ...) -- Translate string
     if Translations[Config.TranslationSelected] ~= nil then
         if Translations[Config.TranslationSelected][str] ~= nil then
@@ -11,7 +13,9 @@ function _(str, ...) -- Translate string
         return 'Locale [' .. Config.TranslationSelected .. '] does not exist'
     end
 end
-
+----------------------------------
+--https://github.com/yannmark3D
+----------------------------------
 function _U(str, ...) -- Translate string first char uppercase
     return tostring(_(str, ...):gsub('^%l', string.upper))
 end
